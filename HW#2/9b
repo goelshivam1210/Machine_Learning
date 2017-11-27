@@ -1,0 +1,146 @@
+[[ 3693.  3691.  3692.  3667.  3352.  2825.  2684.  2660.  2653.]
+ [ 3692.  3691.  3691.  3691.  3605.  3195.  3025.  3019.  3012.]
+ [ 3691.  3691.  3691.  3691.  3691.  3491.  3185.  3143.  3136.]
+ [ 3687.  3687.  3687.  3690.  3691.  3690.  3453.  3251.  3221.]]
+
+
+
+
+[[ 71.18873545  71.2158137   71.70322231  71.51367452  78.66233415
+   88.41050636  96.4798267   97.61711346  97.99620904]
+ [ 75.49417817  74.76306526  77.47089087  77.52504739  79.66422962
+   89.4394801   98.56485242  99.35012185  99.53966965]
+ [ 74.54643921  76.84809098  78.60817763  83.26563769  82.56160303
+   86.73165448  95.42377471  99.1334958   99.53966965]
+ [ 79.52883834  76.79393447  78.06661251  80.55781208  85.40481993
+   85.56728947  91.09125372  97.45464392  99.35012185]]
+Accuracy = 65.3708% (31074/47535) (classification)
+Accuracy = 65.8147% (31285/47535) (classification)
+Accuracy = 66.025% (31385/47535) (classification)
+Accuracy = 65.8441% (31299/47535) (classification)
+Accuracy = 72.3909% (34411/47535) (classification)
+Accuracy = 76.2428% (36241/47535) (classification)
+Accuracy = 74.2064% (35274/47535) (classification)
+Accuracy = 72.8453% (34627/47535) (classification)
+Accuracy = 72.5529% (34488/47535) (classification)
+Accuracy = 57.2231% (27201/47535) (classification)
+Accuracy = 66.7929% (31750/47535) (classification)
+Accuracy = 69.5677% (33069/47535) (classification)
+Accuracy = 69.7297% (33146/47535) (classification)
+Accuracy = 71.6293% (34048/47535) (classification)
+Accuracy = 78.1656% (37156/47535) (classification)
+Accuracy = 80.6753% (38348/47535) (classification)
+Accuracy = 80.1073% (38078/47535) (classification)
+Accuracy = 79.7917% (37928/47535) (classification)
+Accuracy = 58.4874% (27802/47535) (classification)
+Accuracy = 65.4802% (31126/47535) (classification)
+Accuracy = 68.2613% (32447/47535) (classification)
+Accuracy = 71.5767% (34024/47535) (classification)
+Accuracy = 71.2464% (33867/47535) (classification)
+Accuracy = 74.2295% (35285/47535) (classification)
+Accuracy = 79.2826% (37687/47535) (classification)
+Accuracy = 80.1304% (38089/47535) (classification)
+Accuracy = 79.5898% (37833/47535) (classification)
+Accuracy = 18.4601% (8775/47535) (classification)
+Accuracy = 62.4109% (29667/47535) (classification)
+Accuracy = 65.6926% (31227/47535) (classification)
+Accuracy = 66.2943% (31513/47535) (classification)
+Accuracy = 70.7458% (33628/47535) (classification)
+Accuracy = 71.0361% (33767/47535) (classification)
+Accuracy = 74.8838% (35596/47535) (classification)
+Accuracy = 78.7651% (37441/47535) (classification)
+Accuracy = 78.6052% (37365/47535) (classification)
+[[ 65.37077943  65.81466288  66.02503419  65.84411486  72.39086989
+   76.24276849  74.20637425  72.8452719   72.55285579]
+ [ 57.22309877  66.79288945  69.56768697  69.72967287  71.62932576
+   78.16556222  80.67529189  80.10728937  79.79173241]
+ [ 58.48743031  65.4801725   68.26128116  71.57673293  71.24644998
+   74.22951509  79.28263385  80.13043021  79.58977595]
+ [ 18.46008204  62.41085516  65.69264752  66.29430946  70.74576628
+   71.03607868  74.88376985  78.76512044  78.60523825]]
+Number of SV
+[[ 3693.  3691.  3692.  3667.  3352.  2825.  2684.  2660.  2653.]
+ [ 3692.  3691.  3691.  3691.  3605.  3195.  3025.  3019.  3012.]
+ [ 3691.  3691.  3691.  3691.  3691.  3491.  3185.  3143.  3136.]
+ [ 3687.  3687.  3687.  3690.  3691.  3690.  3453.  3251.  3221.]]
+Accuracy = 63.2035% (584/924) (classification)
+p_acc[o] = 63.2034632035
+Accuracy = 63.2035% (584/924) (classification)
+p_acc[o] = 63.2034632035
+Accuracy = 63.5281% (587/924) (classification)
+p_acc[o] = 63.5281385281
+Accuracy = 62.987% (582/924) (classification)
+p_acc[o] = 62.987012987
+Accuracy = 70.3463% (649/924) (classification)
+p_acc[o] = 70.3463203463
+Accuracy = 73.7013% (681/924) (classification)
+p_acc[o] = 73.7012987013
+Accuracy = 71.2121% (658/924) (classification)
+p_acc[o] = 71.2121212121
+Accuracy = 69.5887% (643/924) (classification)
+p_acc[o] = 69.5887445887
+Accuracy = 69.4805% (641/924) (classification)
+p_acc[o] = 69.4805194805
+Accuracy = 53.355% (493/924) (classification)
+p_acc[o] = 53.354978355
+Accuracy = 63.3117% (585/924) (classification)
+p_acc[o] = 63.3116883117
+Accuracy = 67.4242% (623/924) (classification)
+p_acc[o] = 67.4242424242
+Accuracy = 67.5325% (624/924) (classification)
+p_acc[o] = 67.5324675325
+Accuracy = 68.9394% (637/924) (classification)
+p_acc[o] = 68.9393939394
+Accuracy = 76.0823% (703/924) (classification)
+p_acc[o] = 76.0822510823
+Accuracy = 77.7056% (718/924) (classification)
+p_acc[o] = 77.7056277056
+Accuracy = 77.7056% (718/924) (classification)
+p_acc[o] = 77.7056277056
+Accuracy = 76.9481% (711/924) (classification)
+p_acc[o] = 76.9480519481
+Accuracy = 60.3896% (558/924) (classification)
+p_acc[o] = 60.3896103896
+Accuracy = 62.1212% (574/924) (classification)
+p_acc[o] = 62.1212121212
+Accuracy = 64.2857% (594/924) (classification)
+p_acc[o] = 64.2857142857
+Accuracy = 69.0476% (638/924) (classification)
+p_acc[o] = 69.0476190476
+Accuracy = 70.3463% (649/924) (classification)
+p_acc[o] = 70.3463203463
+Accuracy = 72.0779% (666/924) (classification)
+p_acc[o] = 72.0779220779
+Accuracy = 77.1645% (713/924) (classification)
+p_acc[o] = 77.1645021645
+Accuracy = 76.5152% (707/924) (classification)
+p_acc[o] = 76.5151515152
+Accuracy = 76.7316% (709/924) (classification)
+p_acc[o] = 76.7316017316
+Accuracy = 18.5065% (171/924) (classification)
+p_acc[o] = 18.5064935065
+Accuracy = 58.0087% (536/924) (classification)
+p_acc[o] = 58.0086580087
+Accuracy = 62.1212% (574/924) (classification)
+p_acc[o] = 62.1212121212
+Accuracy = 63.6364% (588/924) (classification)
+p_acc[o] = 63.6363636364
+Accuracy = 69.1558% (638/924) (classification)
+p_acc[o] = 69.1558441558
+Accuracy = 68.9394% (637/924) (classification)
+p_acc[o] = 68.9393939394
+Accuracy = 72.0779% (666/924) (classification)
+p_acc[o] = 72.0779220779
+Accuracy = 75.974% (702/924) (classification)
+p_acc[o] = 75.974025974
+Accuracy = 75.4329% (697/924) (classification)
+p_acc[o] = 75.4329004329
+[[ 63.2034632   63.2034632   63.52813853  62.98701299  70.34632035
+   73.7012987   71.21212121  69.58874459  69.48051948]
+ [ 53.35497835  63.31168831  67.42424242  67.53246753  68.93939394
+   76.08225108  77.70562771  77.70562771  76.94805195]
+ [ 60.38961039  62.12121212  64.28571429  69.04761905  70.34632035
+   72.07792208  77.16450216  76.51515152  76.73160173]
+ [ 18.50649351  58.00865801  62.12121212  63.63636364  69.15584416
+   68.93939394  72.07792208  75.97402597  75.43290043]]
+
