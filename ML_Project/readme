@@ -1,0 +1,5 @@
+readme
+
+decision tree is implemented using sklearn library
+please install the sklearn library and also uses graphviz to print out the decision tree.
+other library used is numpy
