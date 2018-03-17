@@ -239,8 +239,7 @@ def main():
 	plt.legend(['A.Perceptron (Training)', 'A. Perceptron (Testing)'])
 	plt.show()  
 
-
-	#make a plotting function here
+	#TODO:make a plotting function here
 
 
 
